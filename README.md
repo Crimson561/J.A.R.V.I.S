@@ -1,7 +1,3 @@
- <div align="center">
-
-<img width="1200" height="475" alt="J.A.R.V.I.S. AI Studio Banner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-
 # J.A.R.V.I.S.
 ### From Incident Noise to Engineering Clarity.
 
